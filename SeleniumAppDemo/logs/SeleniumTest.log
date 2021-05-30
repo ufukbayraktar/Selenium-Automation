@@ -1,0 +1,11 @@
+2021-05-31 01:57:49,624  INFO [main] BasePageTest:17 - Running basePageRedirectingTest.
+ 2021-05-31 01:57:49,628  INFO [main] Driver:44 - Creating web driver for test.
+ 2021-05-31 01:58:29,871  INFO [main] BasePageTest:17 - Running basePageRedirectingTest.
+ 2021-05-31 01:58:29,875  INFO [main] Driver:44 - Creating web driver for test.
+ 2021-05-31 01:59:53,937  INFO [main] BasePageTest:17 - Running basePageRedirectingTest.
+ 2021-05-31 01:59:53,941  INFO [main] Driver:45 - Creating web driver for test.
+ 2021-05-31 01:59:55,104  INFO [main] Driver:66 - Driver is closing. Driving null
+ 2021-05-31 02:04:53,913  INFO [main] BasePageTest:17 - Running basePageRedirectingTest.
+ 2021-05-31 02:04:53,920  INFO [main] Driver:45 - Creating web driver for test.
+ 2021-05-31 02:04:55,036  INFO [main] Driver:66 - Driver is closing. Driving null
+ 
